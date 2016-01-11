@@ -238,6 +238,9 @@ _Pvt_Extensions
 .tmp/
 dist/
 typings/
+coverage/
+.sass-cache/
+.idea/
 
 # Typescript Generated
 src/app/**/*.js
