@@ -32,4 +32,6 @@ After you have everything setup you'll need to use gulp to build, test, and serv
 
 One hella-cool feature of this solution is it uses [Browsersync](https://www.browsersync.io/) combined with [WebPack](https://webpack.github.io/). So after you run `gulp serve`, it continuously monitors your files for changes. When a change occurs it automatically recompiles your code/styles/etc then syncs and reloads your browser(s), all of them. You can have multiple browsers running simultaneously on the same page and they're all synced. Try it. It's awesome for x-browser testing. This also goes for running tests. To add to the 3 commands above, you can also run `gulp test:auto` and it will watch for code changes and re-run your tests after a successful compilation. This makes it super easy to iterate, writing code and running tests on every save.
 
+One last thing. If you're gonna be coding on this in Windows, you'll want something better than the standard command prompt. I highly recommend checking out [cmder](http://cmder.net/). It's just a wrapper around ConEmu but adds a nice theme to it, [clink](https://mridgers.github.io/clink/), and some other great stuff too.
+
 Have fun!
