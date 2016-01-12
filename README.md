@@ -1,5 +1,7 @@
 # wpgdotnetui
 
+[![Join the chat at https://gitter.im/mikesigs/wpgdotnetui](https://badges.gitter.im/mikesigs/wpgdotnetui.svg)](https://gitter.im/mikesigs/wpgdotnetui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is my submission for the new Winnipeg .NET User Group site.
 
 It is using 
